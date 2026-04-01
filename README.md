@@ -135,22 +135,6 @@ If left unaddressed, the identified risks could result in:
 
 ---
 
-## 📁 Repository Structure
-
-```
-cloud-grc-risk-assessment-azure/
-│
-├── README.md
-├── report/
-│   └── Cloud_Security_Risk_Assessment.pdf
-├── diagrams/
-├── risk-register/
-├── controls/
-└── evidence/
-```
-
----
-
 ## 🚀 Key Skills Demonstrated
 
 * GRC Risk Assessment Methodology
@@ -171,14 +155,6 @@ cloud-grc-risk-assessment-azure/
 
 ---
 
-## 📌 Future Improvements
-
-* Expand scope to include Azure Active Directory (IAM)
-* Integrate Microsoft Defender for Cloud
-* Implement SIEM (e.g., Microsoft Sentinel)
-* Add automated compliance assessments
-
----
 
 ## 👤 Author
 
